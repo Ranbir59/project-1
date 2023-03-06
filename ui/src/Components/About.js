@@ -26,6 +26,7 @@ const About = () => {
           </div>
 
           <div className=" paraa col-md-6 text-md-start">
+            <h1>Hello</h1>
             <p>
               <span className="cardeals">CarDeals</span>
               .com is a leading digital marketplace and solutions provider for
